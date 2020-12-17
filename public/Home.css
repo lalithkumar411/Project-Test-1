@@ -1,0 +1,70 @@
+html{
+  background-color: #f6f6f2;
+}
+
+body{
+  background-color: #badfe7;
+  padding: 0;
+}
+
+.smooth-col{
+  background-color: #badfe7;
+}
+
+.nav-bag{
+  background-color: #badfe7;
+  text-align: center;
+}
+
+.allign-center{
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+.allign-center:hover{
+  color: #388087;
+  cursor: pointer;
+}
+
+.aa{
+  text-align: center;
+  height: 600px;
+  background-color: #f6f6f2;
+}
+
+.carousel-item{
+  padding-top: 200px;
+  height: 600px;
+}
+
+.bb{
+  padding-top: 80px;
+  padding-bottom: 80px;
+  padding-right: 0;
+  padding-left: 0;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+.remove-all-margin{
+  margin:0 ! important;
+}
+
+.card{
+  display: inline-block;
+  margin: 40px;
+}
+
+.centr{
+  text-align: center;
+}
